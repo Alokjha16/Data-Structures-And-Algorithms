@@ -1,4 +1,4 @@
-# PROB - 1 SUM OF N NUM /.
+# PROB - 1 SUM OF N NUM /./
 
 # n = int(input("enter the number from sum :"))
 
