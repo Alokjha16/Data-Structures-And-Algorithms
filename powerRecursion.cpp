@@ -1,4 +1,4 @@
-kjb#include<iostream>
+';kjb#include<iostream>
 using namespace std;
 int power(int a, int b){
     if(b == 0){
