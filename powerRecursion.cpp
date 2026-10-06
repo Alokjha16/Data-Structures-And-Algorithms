@@ -1,4 +1,4 @@
-lkn';kjb#include<iostream>
+/.lkn';kjb#include<iostream>
 using namespace std;
 int power(int a, int b){
     if(b == 0){
