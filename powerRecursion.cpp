@@ -1,4 +1,4 @@
-vbnk/.,/j.lkn';kjb#include<iostream>
+#include<iostream>
 using namespace std;
 int power(int a, int b){
     if(b == 0){
